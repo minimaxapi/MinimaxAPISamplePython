@@ -8,9 +8,9 @@ To get it up and running modify the settings in #VARIABLES ... username, passwor
 Lokalizacija = {SI, RS, HR}
 
 Username and password from section "GESLA ZA DOSTOP ZUNANJIH APLIKACIJ/Application-specific passwords":
-* SI - http://login.minimax.si/Profile,
-* HR - http://login.minimax.hr/Profile,
-* RS - http://login.minimax.rs/Profile.
+* SI - https://login.minimax.si/Profile,
+* HR - https://login.minimax.hr/Profile,
+* RS - https://login.minimax.rs/Profile.
 
 client_id and client_secret provided by Minimax support
 
